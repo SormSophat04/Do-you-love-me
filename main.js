@@ -29,7 +29,7 @@ btnNo.onclick = () => {
   const allYesButtons = document.querySelectorAll("#btn-yes");
   allYesButtons.forEach((button) => {
     button.onclick = () => {
-      window.open("https://www.youtube.com/watch?v=-g9vSZsWm9Y", "_self");
+      window.open("https://youtu.be/Hc7lW7VccVw?si=bxwT5Tsruh_o23Q3", "_self");
     };
   });
 };
